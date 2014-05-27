@@ -49,11 +49,11 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'cs54160296';
-$db['default']['password'] = 'T2xG1GbD';
+$db['default']['username'] = 'buuomrs';
+$db['default']['password'] = 'Password@2014';
 
 // INSERT DATABASE NAME HERE  
-$db['default']['database'] = 'cs54160296';
+$db['default']['database'] = 'buuomrs';
 
 
 $db['default']['dbdriver'] = 'mysql';
