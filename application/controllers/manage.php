@@ -13,7 +13,7 @@ class Manage extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('sign_in');
-                echo "Hello eiei";
+               
 	}
 }
 
