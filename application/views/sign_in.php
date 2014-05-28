@@ -7,7 +7,7 @@
   <meta name="author" content="">
   <link rel="shortcut icon" href="<?=assets_url()?>images/favicon.png" type="image/png">
 
-  <title>Bracket Responsive Bootstrap3 Admin</title>
+  <title>Burapha University Optical Marker Recognition System</title>
 
   <link href="<?=assets_url()?>css/style.default.css" rel="stylesheet">
 
@@ -35,12 +35,12 @@
                 
                 <div class="signin-info">
                     <div class="logopanel">
-                        <h1><span>[</span> bracket <span>]</span></h1>
+                        <h1><span>[</span> buuomrs <span>]</span></h1>
                     </div><!-- logopanel -->
                 
                     <div class="mb20"></div>
                 
-                    <h5><strong>Welcome to Bracket Bootstrap 3 Template!</strong></h5>
+                    <h5><strong>Burapha University Optical Marker Recognition System</strong></h5>
                     <ul>
                         <li><i class="fa fa-arrow-circle-o-right mr5"></i> Fully Responsive Layout</li>
                         <li><i class="fa fa-arrow-circle-o-right mr5"></i> HTML5/CSS3 Valid</li>
@@ -72,11 +72,9 @@
         
         <div class="signup-footer">
             <div class="pull-left">
-                &copy; 2014. All Rights Reserved. Bracket Bootstrap 3 Admin Template
+                &copy; 2014. All Rights Reserved. Department of Informatics , Burapha University
             </div>
-            <div class="pull-right">
-                Created By: <a href="http://themepixels.com/" target="_blank">ThemePixels</a>
-            </div>
+           
         </div>
         
     </div><!-- signin -->
